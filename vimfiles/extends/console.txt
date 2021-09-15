@@ -1,0 +1,11 @@
+Color -> opacity 85%
+	 Screen background = red 40 , Green 42 , Blue 54
+layout
+	Screen Buffer Size = Width 131 , Height 40
+	Window Size = width 131 , height 40
+	Window Position =  Left -4 , ,Top -4
+Font
+	Font = Consolas - Size = 18
+Options 
+	Cursor Size = Large
+	Command History = Buffer size 50, Number of Buffers 4
